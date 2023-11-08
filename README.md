@@ -58,7 +58,6 @@
 # Work Exerc3 Adicional:
 ### Fazer:
 a) Adicionar User
-(6; Joao; Ti_joao; 123mudar; joao@empresa.com)
 | Id|    Name   |  Username  | Password |         Email         |
 | - | --------- | ---------- | -------- | --------------------- |
 | 6 |    Joao   |   Ti_joao  | 123mudar |    joao@empresa.com   |
